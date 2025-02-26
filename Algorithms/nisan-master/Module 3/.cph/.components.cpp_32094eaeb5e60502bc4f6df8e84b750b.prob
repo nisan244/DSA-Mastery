@@ -1,0 +1,1 @@
+{"name":"Local: components","url":"c:\\Phitron\\Algorithms\\Module 3\\components.cpp","tests":[{"id":1706168666532,"input":"5 5\n0 1\n1 2\n0 2\n3 4\n3 5","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Phitron\\Algorithms\\Module 3\\components.cpp","group":"local","local":true}

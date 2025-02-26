@@ -1,0 +1,1 @@
+{"name":"Local: mbmb","url":"c:\\Users\\nisan\\OneDrive\\Desktop\\DSA Modules_Pactrice\\Others\\mbmb.cpp","tests":[{"id":1704903219471,"input":"2\n5 1\n2 3 4 6 1\n2\n6 3\n5 7 12 11 13 10\n1 2 4","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\nisan\\OneDrive\\Desktop\\DSA Modules_Pactrice\\Others\\mbmb.cpp","group":"local","local":true}

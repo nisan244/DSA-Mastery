@@ -1,0 +1,1 @@
+{"name":"Local: dfs_on_2d","url":"c:\\Phitron\\Algorithms\\Module 3\\dfs_on_2d.cpp","tests":[{"id":1706085547177,"input":"3 4\n....\n....\n....\n1 1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Phitron\\Algorithms\\Module 3\\dfs_on_2d.cpp","group":"local","local":true}

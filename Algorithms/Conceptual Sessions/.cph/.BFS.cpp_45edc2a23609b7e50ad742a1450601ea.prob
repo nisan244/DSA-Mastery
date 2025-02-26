@@ -1,0 +1,1 @@
+{"name":"Local: BFS","url":"c:\\Users\\nisan\\OneDrive\\Desktop\\Algrothm_Modules\\C\\BFS.cpp","tests":[{"id":1707401942023,"input":"########\n#.A#...#\n#.##.#B#\n#......#\n########","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\nisan\\OneDrive\\Desktop\\Algrothm_Modules\\C\\BFS.cpp","group":"local","local":true}

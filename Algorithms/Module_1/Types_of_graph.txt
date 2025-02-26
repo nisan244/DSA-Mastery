@@ -1,0 +1,5 @@
+1. Undirected graph
+2. Directed graph
+3. Weighted graph
+4. Unweighted graph
+5. Cycle in graph
